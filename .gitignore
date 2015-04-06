@@ -1,0 +1,36 @@
+# =============== #
+# Unity generated #
+# =============== #
+HCI-Gryffindor/Temp/
+HCI-Gryffindor/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+HCI-Gryffindor/ExportedObj/
+HCI-Gryffindor/obj/
+*.svd
+*.userprefs
+HCI-Gryffindor/*.csproj
+*.pidb
+*.suo
+HCI-Gryffindor/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ====== #
+# Custom #
+# ====== #
+OculusUnityIntegration.unitypackage
